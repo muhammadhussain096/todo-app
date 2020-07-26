@@ -1,0 +1,62 @@
+.colo{
+  background-color:#e5e3e3;
+}
+.navb{
+  background-color: black;
+  color: white;
+  padding: 1px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.welcome{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.main2{
+  background-color: white; 
+  padding: 20px;
+  box-shadow: 5px 5px 5px;
+}
+.btnn{
+border-radius: 10pt;
+font-family: Arial, Helvetica, sans-serif;
+color: green;
+border: green solid 3px;
+margin-top: 10px;
+}
+.btnn:hover{
+  background-color: green;
+  color: white;
+}
+.le{
+  list-style: decimal;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.btn2{
+  border-radius: 10pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  border: red solid 3px;
+  margin-top: 10px;
+  margin-left:10px;
+  }
+  .btn2:hover{
+    background-color: red;
+    color: white;
+    margin-left:10px;
+  }
+  .btn3{
+    border-radius: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+    color:lightblue;
+    border: lightblue solid 3px;
+    margin-top: 10px;
+    margin-left:10px;
+    }
+    .btn3:hover{
+      background-color: lightblue;
+      color: white;
+      margin-left: 10px;
+    }
+    
+  
